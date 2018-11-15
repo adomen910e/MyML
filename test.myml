@@ -1,0 +1,1 @@
+x = 1; y = if (x == 2) then 3 else 6; y;
